@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesús Vargas</h1>
 <h3 align="center">A Full-Stack Developer in the works</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/Ege6F25WU7ASSK777">
+<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/Ege6F25WU7ASSK777](https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusavargasr&label=Profile%20views&color=0e75b6&style=flat" alt="jesusavargasr" /> </p>
 
